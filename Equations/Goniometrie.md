@@ -44,3 +44,43 @@ $$
 
 $$[-\pi,-\frac{5}{6}\pi]\lor[0,2\rangle\lor\{\pi\}$$
 
+$$\dfrac{3^{x+2}+3^{x-1}-84}{-2\sqrt{3}sin^{2}(x)-2\sin(x)cos(x)+2\sqrt{3}} \le 0 \ \ x \in \mathbb{R} \setminus \{-\pi,\pi\} $$
+
+$$
+\begin{align}
+T=0=>3^{x+2}+3^{x-1}-84=0\\
+3^{x+2}+3^{x-1}-3^{5}=0\\
+x+2+x-1-5=0\\
+2x-4=0\\
+x=2
+\end{align}
+$$
+
+![[Group 43.png]]
+$$
+\begin{align}
+N=0 =>-2\sqrt{3}sin^{2}(x)-2\sin(x)cos(x)+2\sqrt{3}=0\\
+-2\sqrt{3}(\frac{1}{2}-\frac{1}{2}\cos(2x))-\sin(2x)+2\sqrt{3}=0\\
+-\sqrt{3}+\sqrt{3}\cos(2x)-sin(2x)+2\sqrt{3}=0\\
+\sqrt{3}\cos(2x)-\sin(2x)+\sqrt{3}=0\\
+\end{align}
+$$
+$$
+\begin{align}
+a=\sqrt{3} \ \land b=-1 \land \ c=\sqrt{3} \\
+\tan\phi=\frac{-1}{\sqrt{3}}\ 4e\ kw\\
+\phi=1\frac{5}{6}\pi
+\end{align}
+$$
+$$\begin{align}
+\sqrt{(\sqrt{3})^{2}+(-1)^{2}}\cos(2x-1\frac{5}{6}\pi)+\sqrt{3}=0\\
+2\cos(2x-1\frac{5}{6}\pi)=-\sqrt{3}\\
+2x-1\frac{5}{6}\pi=\frac{5}{6}\pi+k.2\pi \ \lor 2x-1\frac{5}{6}\pi=-\frac{5}{6}\pi+k.2\pi\\
+x=1\frac{1}{3}\pi+k.\pi \ \lor x=\frac{1}{2}\pi+k.\pi\\
+\{-\frac{1}{2}\pi,-\frac{1}{3}\pi,\frac{1}{2}\pi\}
+\end{align}
+$$
+
+![[Group 51.png]]
+$$[-\pi,2] \backslash \{-\frac{1}{2}\pi,\frac{1}{3}\pi,\frac{1}{2}\pi\}\lor \{\pi\}$$
+
