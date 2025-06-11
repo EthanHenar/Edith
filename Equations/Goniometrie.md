@@ -22,5 +22,25 @@ $$
 \sqrt{(\sqrt{3})^{2}+(1)^{2}}\cos(2x-\frac{1}{6}\pi)-\sqrt{3}=0\\
 2\cos(2x-\frac{1}{6}\pi)-\sqrt{3}=0\\
 \cos(2x-\frac{1}{6}\pi)=\frac{1}{2}\sqrt{3}\\
+2x-\frac{1}{6}\pi=\frac{1}{6}\pi+k.2\pi\ \lor 2x-\frac{1}{6}\pi=-\frac{1}{6}\pi+k.2\pi\\
+x=\frac{1}{6}\pi+k.\pi \ \lor x=k.\pi\\
+\{-\pi,-\frac{5}{6}\pi,0,\frac{1}{6}\pi,\pi \}
 \end{align}
 $$
+$$ 
+\begin{align}
+N=0=>3^{2x}-8.3{x}-9=0\\
+Stel:3^{x}=u\\
+u^{2}-8u-9=0\\
+(u-9)(u+1)=0\\
+u=9\lor u=-1\\
+3^{x}=9\lor 3^{x}=-1\\
+x=2\lor \emptyset
+\end{align}
+$$
+![[Group 42.png]]
+![[Group 50.png]]
+
+
+$$[-\pi,-\frac{5}{6}\pi]\lor[0,2\rangle\lor\{\pi\}$$
+
